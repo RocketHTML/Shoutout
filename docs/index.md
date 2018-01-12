@@ -32,7 +32,7 @@
 
       </div>
       <ul>
-       <li class="logo"><a href="index.html"><img src="https://www.holbertonschool.com/holberton-logo.png" alt="HolbertonSchool" class="small"></a></li>
+       <li class="logo"><a href="index.html"><img src="https://i.imgur.com/7AApyyT.jpg" alt="HolbertonSchool" class="small"></a></li>
        <li><a href="index.html">Download</a></li>
        <li><a href="camera.html">Camera</a></li>
        <li><a href="team.html">Team</a></li>
