@@ -1,5 +1,5 @@
-  
-    <link rel="icon" 
+<head>
+<link rel="icon" 
       type="image/png" 
       href="https://i.imgur.com/7AApyyT.jpg">
     <link href="https://www.holbertonschool.com/level2/holberton.css" rel="stylesheet">
@@ -8,7 +8,7 @@
     <meta name="description" content="Shoutout App - index">
     <meta name="author" content="Untraced Technology">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+</head>
   <body class="works_on_smartphone" id="body">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
