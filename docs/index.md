@@ -4,7 +4,7 @@
     <link rel="icon" 
       type="image/png" 
       href="https://i.imgur.com/7AApyyT.jpg">
-    <link href="holberton.css" rel="stylesheet">
+    <link href="https://www.holbertonschool.com/level2/holberton.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="description" content="Shoutout App - index">
