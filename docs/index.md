@@ -3,7 +3,7 @@
   <head>
     <link rel="icon" 
       type="image/png" 
-      href="https://i.imgur.com/7AApyyT.jpg"
+      href="https://i.imgur.com/7AApyyT.jpg">
     <link href="holberton.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
     <meta charset="UTF-8">
