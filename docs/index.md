@@ -40,27 +40,21 @@
       </ul>
     </header>
     <main id="main"> 
-      <article id="article">
+     <article id="article">
+     <a href="#">
+        <img src="https://i.imgur.com/7AApyyT.jpg" alt="Shoutout Icon">
+     </a>
+     <hr />
 
      <h1>Shout your friends~</h1> 
      <p> 
         With shoutout, you can send videos to your friends and family.
      </p>
-     <a href="#">
-        <img src="https://i.imgur.com/7AApyyT.jpg" alt="Shoutout Icon">
-     </a>
-     <hr />
      <h2>News Feed</h2> 
-        <p>
-        </p>
 
-        <h3></h3>
-         <p>
-        </p>
      <hr />
 
      <h2>Profile</h2>
-      <h3></h3>
         <p> 
 	<br>
  <img class="small" id="smart_thumbnail" src="https://i.imgur.com/u3TaC9l.jpg" alt="Shoutout Demo"><br>	
