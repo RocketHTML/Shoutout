@@ -78,4 +78,5 @@ s.setAttribute('data-timestamp', +new Date());
 </aside>
    </main>
    <footer id="footer"><p><a href="https://twitter.com/@JsonBurke" target="_blank">Untraced Technology</a></p></footer>
+  <script src="index.js"></script>
   </body>
