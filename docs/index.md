@@ -46,11 +46,11 @@
         With shoutout, you can send videos to your friends and family.
      </p>
      <h2>News Feed</h2> 
-
+     <p>Keep people uptodate as they read your news feed.</p>
      <hr />
 
      <h2>Profile</h2>
-        <p> 
+        <p>Add pictures and videos to your profile.</p>
 	<br>
  <img class="small" id="smart_thumbnail" src="https://i.imgur.com/u3TaC9l.jpg" alt="Shoutout Demo"><br>	
 (click thumbnail to resize)<br>
