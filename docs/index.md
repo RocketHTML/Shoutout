@@ -42,14 +42,15 @@
     <main id="main"> 
       <article id="article">
 
-     <h1></h1> <!-- HTML Laboratory -->
+     <h1>Shout your friends~</h1> 
      <p> 
+        With shoutout, you can send videos to your friends and family.
      </p>
-     <a href="https://www.holbertonschool.com">
-        <img src="https://www.holbertonschool.com/holberton-logo.png" alt="HolbertonLogo">
+     <a href="#">
+        <img src="https://i.imgur.com/7AApyyT.jpg" alt="Shoutout Icon">
      </a>
      <hr />
-     <h2></h2> 
+     <h2>News Feed</h2> 
         <p>
         </p>
 
@@ -58,11 +59,11 @@
         </p>
      <hr />
 
-     <h2></h2>
+     <h2>Profile</h2>
       <h3></h3>
         <p> 
 	<br>
- <img class="small" id="smart_thumbnail" src="https://i.imgur.com/MvyzqGv.jpg" alt="Snowy in Massachusetts"><br>	
+ <img class="small" id="smart_thumbnail" src="https://i.imgur.com/u3TaC9l.jpg" alt="Shoutout Demo"><br>	
 (click thumbnail to resize)<br>
         </p>
        
