@@ -1,6 +1,4 @@
-<DOCTYPE html>
-<html>
-  <head>
+  
     <link rel="icon" 
       type="image/png" 
       href="https://i.imgur.com/7AApyyT.jpg">
@@ -10,10 +8,7 @@
     <meta name="description" content="Shoutout App - index">
     <meta name="author" content="Untraced Technology">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-      Shoutout
-    </title>
-  </head>
+  
   <body class="works_on_smartphone" id="body">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -84,5 +79,3 @@ s.setAttribute('data-timestamp', +new Date());
    </main>
    <footer id="footer"><p><a href="https://twitter.com/@JsonBurke" target="_blank">Untraced Technology</a></p></footer>
   </body>
-</html>
-
