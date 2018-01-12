@@ -16,7 +16,7 @@
   </head>
   <body class="works_on_smartphone" id="body">
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<!-- <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
@@ -25,7 +25,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
     <header id="header">
 <div class="right">
-        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br> -->
       
                         
          <div class="fb-share-button" data-href="http://213.167.242.52" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F213.167.242.52%2F&amp;src=sdkpreparse">Share</a></div>
