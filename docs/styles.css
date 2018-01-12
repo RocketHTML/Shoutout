@@ -1,0 +1,39 @@
+body, main {
+  display: flex;
+}
+
+body {
+   flex-direction: column;
+   background: #2D2D2A;
+   color: #20FC8F;
+}
+
+body a {
+  color: #20FC8F;
+}
+
+main {
+   flex-direction: row;
+   flex: auto;
+}
+
+article {
+   flex: 2;
+   flex-direction:row;
+   background:#20FC8F;
+   color: black;
+}
+
+article a {
+    color: gray !important;
+}
+
+aside {
+   flex: 1;
+   background:#3F5E5A;
+   color: black;
+}
+
+article, aside {
+   overflow-y: auto;
+}
